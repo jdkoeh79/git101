@@ -1,3 +1,5 @@
 This is our new feature!
 
 A change to accommodate the recent bug fix.
+
+New feature complete!
