@@ -1,1 +1,3 @@
 First commit to the dev branch.
+
+Fixed a bug.
